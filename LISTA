@@ -1,6 +1,7 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guia.xml, https://raw.githubusercontent.com/acidjesuz/EPG/master/guide.xml, https://raw.githubusercontent.com/eldepor/epg/main/bt.com.xml, https://raw.githubusercontent.com/eldepor/epg/main/ziggogo.tv.xml, https://raw.githubusercontent.com/eldepor/epg/main/sky.de.xml, https://raw.githubusercontent.com/eldepor/epg/main/flixed.io.xml" 
-#EXTINF:-1 group-title="Eventos" tvg-id="OTROS" tvg-logo="https://telegra.ph/file/d4d9a410917c5c13f9c5a.png" ,elcano by Lucas  
-https://elcano.top/
+#EXTINF:-1 group-title="Eventos" tvg-id="OTROS" tvg-logo="https://telegra.ph/file/d4d9a410917c5c13f9c5a.png" 
+
+
 #EXTINF:-1 group-title="DAZN F1" tvg-id="DAZN F1 HD" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/012018/untitled-1_20.png?An9Fa1zRO4z6Dj__EVR4da6YOWsvtEw2&itok=6PiLMTa5" ,DAZN F1 UHD ep  c021
 http://127.0.0.1:6878/ace/getstream?id=c021e3af42b9cd3743817a2c6258e0986666dd73
 #EXTINF:-1 group-title="DAZN F1" tvg-id="DAZN F1 HD" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/012018/untitled-1_20.png?An9Fa1zRO4z6Dj__EVR4da6YOWsvtEw2&itok=6PiLMTa5" ,DAZN F1 UHD  6b94
@@ -183,52 +184,12 @@ http://127.0.0.1:6878/ace/getstream?id=664eb5fe460b96941aed633959a845b185cd8394
 http://127.0.0.1:6878/ace/getstream?id=c9c062941fbecb16ce29437f346ea7177d720898
 #EXTINF:-1 group-title="Otros deportes" tvg-id="FoxSports2.us" tvg-logo="https://telegra.ph/file/d4d9a410917c5c13f9c5a.png" ,FOX Sports 2 US  cba8
 http://127.0.0.1:6878/ace/getstream?id=cba8d369eac629b577750edb90370cd1c5fb03b7
-#EXTINF:-1 group-title="Otros deportes" tvg-id="ZiggoSportVoetbal.nl" tvg-logo="https://telegra.ph/file/d4d9a410917c5c13f9c5a.png" ,Ziggo Sport Voetbal NL  9576
-http://127.0.0.1:6878/ace/getstream?id=95769f95c6af45e8ec46526c3be1104d0a0c7b91
-#EXTINF:-1 group-title="Otros deportes" tvg-id="ZiggoSportRacing.nl" tvg-logo="https://telegra.ph/file/d4d9a410917c5c13f9c5a.png" ,Ziggo Sport Racing NL  7780
-http://127.0.0.1:6878/ace/getstream?id=77800bb07c1d69135024ee2379c97472eb12dd45
 #EXTINF:-1 group-title="Otros deportes" tvg-id="Eurosport 1 HD" tvg-logo="https://i.ibb.co/DKTwL0t/Eurosport1-o.jpg" ,Eurosport 1 1080  5e4c
 http://127.0.0.1:6878/ace/getstream?id=5e4cd48c79f991fcbee2de8b9d30c4b16de3b952
 #EXTINF:-1 group-title="Otros deportes" tvg-id="Eurosport 2" tvg-logo="https://i.ibb.co/4dFxnrC/Eurosport2-o.jpg" ,Eurosport 2 1080  c373
 http://127.0.0.1:6878/ace/getstream?id=c373da9e901d414b7384e671112e64d5a2310c29
 #EXTINF:-1 group-title="Otros deportes" tvg-id="GOL PLAY" tvg-logo="https://i.ibb.co/5hYsXDR/Gol.jpg" ,GOL TV 1080  d462
 http://127.0.0.1:6878/ace/getstream?id=d4627f7b6b237a8556819445b3283d866caceca2
-#EXTINF:-1 group-title="Otros deportes" tvg-id="Teledeporte" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/TDEP" ,tdp 1080  e239
-http://127.0.0.1:6878/ace/getstream?id=e2395d28ad19423212fd3aa0e81f387db3e8bb9f
-#EXTINF:-1 group-title="Otros deportes" tvg-id="I217.33395.zap2it.com" tvg-logo="https://telegra.ph/file/8807aa3ba9ca7f2232492.jpg" ,Tennis Channel  9292
-http://127.0.0.1:6878/ace/getstream?id=9292d3b32432efb56db4014933cbdec0a7cf2e36
-#EXTINF:-1 group-title="Otros deportes" tvg-id="Sport TV1 POR HD" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a450.png" ,Sport TV 1 1080  ce23
-http://127.0.0.1:6878/ace/getstream?id=ce235921dac95e1da2dd5e54673c2fecb9e806de
-#EXTINF:-1 group-title="Otros deportes" tvg-id="Sport TV2 POR HD" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a451.png" ,Sport TV 2 1080  396d
-http://127.0.0.1:6878/ace/getstream?id=396d82ca6f5445abcd32e6b609d67e332ee12ace
-#EXTINF:-1 group-title="Otros deportes" tvg-id="Sport TV3 POR HD" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a452.png" ,Sport TV 3 1080  f8cb
-http://127.0.0.1:6878/ace/getstream?id=f8cb9d9e3077eb3ae417b2d95a69c5f590760eb9
-#EXTINF:-1 group-title="Otros deportes" tvg-id="I873.76943.schedulesdirect.org" tvg-logo="https://i.imgur.com/XcjYBfj.png" ,beIN SPORTS ñ  41af
-http://127.0.0.1:6878/ace/getstream?id=41af6926a6010b68ba2540975761436bb077748f
-#EXTINF:-1 group-title="Otros deportes" tvg-id="Barcelona TV" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-barca-tv-1456.png" ,Barça 720  e336
-http://127.0.0.1:6878/ace/getstream?id=e3362507e7c732b9461bd7bdc74bd054c49b3ba7
-#EXTINF:-1 group-title="electroperra" tvg-id="Discovery" tvg-logo="https://telegra.ph/file/bf0dbd8e082efdd1b4523.png" ,Discovery  
-http://iptv.darktv.nl:80/play/live.php?mac=00:1A:79:0D:9F:6D&stream=30194&extension=ts&play_token=H9QHtyNjwN
-#EXTINF:-1 group-title="electroperra" tvg-id="HISTORIA" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/HIST" ,Historia  
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=55609&extension=ts&play_token=ltn2GgE1z6
-#EXTINF:-1 group-title="electroperra" tvg-id="NAT GEO WILD HD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/NATGW" ,Nat Geo Wild  
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=55611&extension=ts&play_token=ltn2GgE1z6
-#EXTINF:-1 group-title="electroperra" tvg-id="NAT GEO HD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/NATGEO" ,National Geographic  
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=55613&extension=ts&play_token=ltn2GgE1z6
-#EXTINF:-1 group-title="electroperra" tvg-id="Odisea" tvg-logo="https://telegra.ph/file/3ee15bce44c6c32af8a85.png" ,Odisea  
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=55597&extension=ts&play_token=ltn2GgE1z6
-#EXTINF:-1 group-title="Otros" tvg-id="La 1 HD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/TVE" ,La1  02b9
-http://127.0.0.1:6878/ace/getstream?id=02b9307c5c97c86914cc5939d6bbeb5b4ec60b47
-#EXTINF:-1 group-title="Otros" tvg-id="La 1 HD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/TVE" ,La1 UHD  6636
-http://127.0.0.1:6878/ace/getstream?id=6636a5c1055b5913ddcd0e87a5523f7d935350af
-#EXTINF:-1 group-title="Otros" tvg-id="La 2" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/LA2" ,La2  6010
-http://127.0.0.1:6878/ace/getstream?id=60106275d34f995e26bb2cc4a21a42f586c6c555
-#EXTINF:-1 group-title="Otros" tvg-id="Cuatro HD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/C4" ,CUATRO 1080  e8ee
-http://127.0.0.1:6878/ace/getstream?id=e8eec35f4662be1af96963245bfa88fb7d0242c4
-#EXTINF:-1 group-title="Otros" tvg-id="Be Mad" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/BEMAD" ,BeMad 1080  5c26
-http://127.0.0.1:6878/ace/getstream?id=5c267a00f264736c1d47c1cc3e754447ca8f770c
-#EXTINF:-1 group-title="Otros" tvg-id="Telecinco HD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/T5" ,Telecinco 1080  bb19
-http://127.0.0.1:6878/ace/getstream?id=bb1982ae8d2d409d4ccd7a9f498042684e3532b5
 
 #EXTINF:-1 group-title="Movistar Plus" tvg-id="Movistar Plus+ HD" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a2451.png" ,Movistar Plus+ 1080 IPTV 1
 http://185.233.16.53:80/play/vi1105750/3JxWFxYDUNnU/558669.ts
@@ -330,16 +291,139 @@ http://tv.satsolution.tvip.xyz:80/coqnX16GHf336/U62qoV985/18223
 #EXTINF:-1 tvg-id="Bein10Max.fr" tvg-name="beIN SPORTS MAX 10 FHD FR" tvg-logo="https://picon-13398.kxcdn.com/beinmax10.jpg" group-title="Live: beIN Media Group",beIN SPORTS MAX 10 FHD FR
 http://tv.satsolution.tvip.xyz:80/coqnX16GHf336/U62qoV985/18224
 
-#EXTINF:-1 tvg-id="MovistarDeportes.pe" tvg-name="Movistar Deportes HD PE" tvg-logo="https://picon-13398.kxcdn.com/movistardeportes1.jpg" group-title="Live: Latin America",Movistar Deportes HD PE
-http://tv.satsolution.tvip.xyz:80/coqnX16GHf336/U62qoV985/99905
+#EXTINF:-1 tvg-id="beINSportsNews.qa" tvg-name="beIN SPORTS News HD QA" tvg-logo="https://picon-13398.kxcdn.com/beinsportsnewsarb.jpg" group-title="Live: beIN Media Group",beIN SPORTS News HD QA
+http://tv.satsolution.tvip.xyz:80/coqnX16GHf336/U62qoV985/17038
+#EXTINF:-1 tvg-id="beINSportsGlobal.qa" tvg-name="beIN SPORTS GLOBAL FHD QA" tvg-logo="https://picon-13398.kxcdn.com/beinsportsglobal.jpg" group-title="Live: beIN Media Group",beIN SPORTS GLOBAL FHD QA
+http://tv.satsolution.tvip.xyz:80/coqnX16GHf336/U62qoV985/21927
+#EXTINF:-1 tvg-id="beINSportsGlobal.qa" tvg-name="beIN SPORTS HD QA" tvg-logo="https://picon-13398.kxcdn.com/beinsports.jpg" group-title="Live: beIN Media Group",beIN SPORTS HD QA
+http://tv.satsolution.tvip.xyz:80/coqnX16GHf336/U62qoV985/29604
+#EXTINF:-1 tvg-id="beINSports1En.qa" tvg-name="beIN SPORTS 1 4K QA" tvg-logo="https://picon-13398.kxcdn.com/beinsports1.jpg" group-title="Live: beIN Media Group",beIN SPORTS 1 4K QA
+http://tv.satsolution.tvip.xyz:80/coqnX16GHf336/U62qoV985/24697
+#EXTINF:-1 tvg-id="beINSports2En.qa" tvg-name="beIN SPORTS 2 4K QA" tvg-logo="https://picon-13398.kxcdn.com/beinsports2.jpg" group-title="Live: beIN Media Group",beIN SPORTS 2 4K QA
+http://tv.satsolution.tvip.xyz:80/coqnX16GHf336/U62qoV985/24696
+#EXTINF:-1 tvg-id="beINSports3En.qa" tvg-name="beIN SPORTS 3 4K QA" tvg-logo="https://picon-13398.kxcdn.com/beinsports3.jpg" group-title="Live: beIN Media Group",beIN SPORTS 3 4K QA
+http://tv.satsolution.tvip.xyz:80/coqnX16GHf336/U62qoV985/24695
+#EXTINF:-1 tvg-id="beINSports4En.qa" tvg-name="beIN SPORTS 4 4K QA" tvg-logo="https://picon-13398.kxcdn.com/beinsport4hd.jpg" group-title="Live: beIN Media Group",beIN SPORTS 4 4K QA
+http://tv.satsolution.tvip.xyz:80/coqnX16GHf336/U62qoV985/24694
+#EXTINF:-1 tvg-id="beINSports5En.qa" tvg-name="bein SPORTS 5 4K QA" tvg-logo="https://picon-13398.kxcdn.com/beinsport5.jpg" group-title="Live: beIN Media Group",bein SPORTS 5 4K QA
+http://tv.satsolution.tvip.xyz:80/coqnX16GHf336/U62qoV985/24693
+#EXTINF:-1 tvg-id="beINSports6En.qa" tvg-name="beIN SPORTS 6 4K QA" tvg-logo="https://picon-13398.kxcdn.com/beinsport6.jpg" group-title="Live: beIN Media Group",beIN SPORTS 6 4K QA
+http://tv.satsolution.tvip.xyz:80/coqnX16GHf336/U62qoV985/24692
+#EXTINF:-1 tvg-id="beINSports7En.qa" tvg-name="beIN SPORTS 7 FHD QA" tvg-logo="https://picon-13398.kxcdn.com/beinsport7.jpg" group-title="Live: beIN Media Group",beIN SPORTS 7 FHD QA
+http://tv.satsolution.tvip.xyz:80/coqnX16GHf336/U62qoV985/22163
+#EXTINF:-1 tvg-id="BeinSports1EnEn.qa" tvg-name="beIN SPORTS 1 English HD QA" tvg-logo="https://picon-13398.kxcdn.com/beinsport11.jpg" group-title="Live: beIN Media Group",beIN SPORTS 1 English HD QA
+http://tv.satsolution.tvip.xyz:80/coqnX16GHf336/U62qoV985/15000
+#EXTINF:-1 tvg-id="BeinSports2EnEn.qa" tvg-name="beIN SPORTS 2 English HD QA" tvg-logo="https://picon-13398.kxcdn.com/beinsport12.jpg" group-title="Live: beIN Media Group",beIN SPORTS 2 English HD QA
+http://tv.satsolution.tvip.xyz:80/coqnX16GHf336/U62qoV985/15001
+#EXTINF:-1 tvg-id="BeinSports3EnEn.qa" tvg-name="beIN SPORTS 3 English HD QA" tvg-logo="https://picon-13398.kxcdn.com/beinsport13.jpg" group-title="Live: beIN Media Group",beIN SPORTS 3 English HD QA
+http://tv.satsolution.tvip.xyz:80/coqnX16GHf336/U62qoV985/21517
+#EXTINF:-1 tvg-id="BeinSportsPremium1.qa" tvg-name="beIN SPORTS Premium 1 FHD QA" tvg-logo="https://picon-13398.kxcdn.com/beinsports1premium.jpg" group-title="Live: beIN Media Group",beIN SPORTS Premium 1 FHD QA
+http://tv.satsolution.tvip.xyz:80/coqnX16GHf336/U62qoV985/75533
+#EXTINF:-1 tvg-id="BeinSportsPremium2.qa" tvg-name="beIN SPORTS Premium 2 FHD QA" tvg-logo="https://picon-13398.kxcdn.com/beinsports2premium.jpg" group-title="Live: beIN Media Group",beIN SPORTS Premium 2 FHD QA
+http://tv.satsolution.tvip.xyz:80/coqnX16GHf336/U62qoV985/75534
+#EXTINF:-1 tvg-id="BeinSportsPremium3.qa" tvg-name="beIN SPORTS Premium 3 FHD QA" tvg-logo="https://picon-13398.kxcdn.com/beinsports3premium.jpg" group-title="Live: beIN Media Group",beIN SPORTS Premium 3 FHD QA
+http://tv.satsolution.tvip.xyz:80/coqnX16GHf336/U62qoV985/75535
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS XTRA 1 FHD QA" tvg-logo="https://picon-13398.kxcdn.com/beinsportsxtra1.jpg" group-title="Live: beIN Media Group",beIN SPORTS XTRA 1 FHD QA
+http://tv.satsolution.tvip.xyz:80/coqnX16GHf336/U62qoV985/88680
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS XTRA 2 FHD QA" tvg-logo="https://picon-13398.kxcdn.com/beinsportsxtra2.jpg" group-title="Live: beIN Media Group",beIN SPORTS XTRA 2 FHD QA
 
-#EXTINF:-1 tvg-id="" tvg-name="StarzPlay Sport 1 HD ARB" tvg-logo="https://picon-13398.kxcdn.com/starzplayarb.jpg" group-title="Live: Live Events",StarzPlay Sport 1 HD ARB
-http://tv.satsolution.tvip.xyz:80/coqnX16GHf336/U62qoV985/100103
-#EXTINF:-1 tvg-id="" tvg-name="StarzPlay Sport 2 HD ARB" tvg-logo="https://picon-13398.kxcdn.com/starzplayarb.jpg" group-title="Live: Live Events",StarzPlay Sport 2 HD ARB
-http://tv.satsolution.tvip.xyz:80/coqnX16GHf336/U62qoV985/100104
-#EXTINF:-1 tvg-id="" tvg-name="StarzPlay Sport 3 HD ARB" tvg-logo="https://picon-13398.kxcdn.com/starzplayarb.jpg" group-title="Live: Live Events",StarzPlay Sport 3 HD ARB
-http://tv.satsolution.tvip.xyz:80/coqnX16GHf336/U62qoV985/100105
-#EXTINF:-1 tvg-id="" tvg-name="StarzPlay Sport 4 HD ARB" tvg-logo="https://picon-13398.kxcdn.com/starzplayarb.jpg" group-title="Live: Live Events",StarzPlay Sport 4 HD ARB
-http://tv.satsolution.tvip.xyz:80/coqnX16GHf336/U62qoV985/108895
-#EXTINF:-1 tvg-id="" tvg-name="StarzPlay Sport 5 HD ARB" tvg-logo="https://picon-13398.kxcdn.com/starzplayarb.jpg" group-title="Live: Live Events",StarzPlay Sport 5 HD ARB
-http://tv.satsolution.tvip.xyz:80/coqnX16GHf336/U62qoV985/108896
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS N HD US" tvg-logo="https://picon-13398.kxcdn.com/beinsportsn.jpg" group-title="Live: beIN Media Group",beIN SPORTS N HD US
+http://tv.satsolution.tvip.xyz:80/coqnX16GHf336/U62qoV985/23261
+#EXTINF:-1 tvg-id="Baraem.qa" tvg-name="beIN LaLiga HD US" tvg-logo="https://picon-13398.kxcdn.com/laligatv.jpg" group-title="Live: beIN Media Group",beIN LaLiga HD US
+http://tv.satsolution.tvip.xyz:80/coqnX16GHf336/U62qoV985/32747
+#EXTINF:-1 tvg-id="beINSports.us" tvg-name="beIN SPORTS HD US" tvg-logo="https://picon-13398.kxcdn.com/beinsports.jpg" group-title="Live: beIN Media Group",beIN SPORTS HD US
+http://tv.satsolution.tvip.xyz:80/coqnX16GHf336/U62qoV985/15002
+#EXTINF:-1 tvg-id="beINSports4.us" tvg-name="beIN SPORTS 4 HD US" tvg-logo="https://picon-13398.kxcdn.com/beinsport4hd.jpg" group-title="Live: beIN Media Group",beIN SPORTS 4 HD US
+http://tv.satsolution.tvip.xyz:80/coqnX16GHf336/U62qoV985/9013
+#EXTINF:-1 tvg-id="beINSports5.us" tvg-name="beIN SPORTS 5 HD US" tvg-logo="https://picon-13398.kxcdn.com/beinsport5.jpg" group-title="Live: beIN Media Group",beIN SPORTS 5 HD US
+http://tv.satsolution.tvip.xyz:80/coqnX16GHf336/U62qoV985/32748
+#EXTINF:-1 tvg-id="beINSports6.us" tvg-name="beIN SPORTS 6 HD US" tvg-logo="https://picon-13398.kxcdn.com/beinsport6.jpg" group-title="Live: beIN Media Group",beIN SPORTS 6 HD US
+http://tv.satsolution.tvip.xyz:80/coqnX16GHf336/U62qoV985/32749
+#EXTINF:-1 tvg-id="beINSports7.us" tvg-name="beIN SPORTS 7 HD US" tvg-logo="https://picon-13398.kxcdn.com/beinsport7.jpg" group-title="Live: beIN Media Group",beIN SPORTS 7 HD US
+http://tv.satsolution.tvip.xyz:80/coqnX16GHf336/U62qoV985/32750
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 8 HD US" tvg-logo="" group-title="Live: beIN Media Group",beIN SPORTS 8 HD US
+http://tv.satsolution.tvip.xyz:80/coqnX16GHf336/U62qoV985/81406
+
+#EXTINF:-1 tvg-id="CosmoteSport1.gr" tvg-name="Cosmote Sport 1 HD GR" tvg-logo="https://picon-13398.kxcdn.com/cosmotesport1gr.jpg" group-title="Live: Greece",Cosmote Sport 1 HD GR
+http://tv.satsolution.tvip.xyz:80/coqnX16GHf336/U62qoV985/18240
+#EXTINF:-1 tvg-id="CosmoteSport2.gr" tvg-name="Cosmote Sport 2 HD GR" tvg-logo="https://picon-13398.kxcdn.com/cosmotesport2gr.jpg" group-title="Live: Greece",Cosmote Sport 2 HD GR
+http://tv.satsolution.tvip.xyz:80/coqnX16GHf336/U62qoV985/18241
+#EXTINF:-1 tvg-id="CosmoteSport3.gr" tvg-name="Cosmote Sport 3 HD GR" tvg-logo="https://picon-13398.kxcdn.com/cosmotesport3gr.jpg" group-title="Live: Greece",Cosmote Sport 3 HD GR
+http://tv.satsolution.tvip.xyz:80/coqnX16GHf336/U62qoV985/18242
+#EXTINF:-1 tvg-id="CosmoteSport4.gr" tvg-name="Cosmote Sport 4 HD GR" tvg-logo="https://picon-13398.kxcdn.com/cosmotesport1gr.jpg" group-title="Live: Greece",Cosmote Sport 4 HD GR
+http://tv.satsolution.tvip.xyz:80/coqnX16GHf336/U62qoV985/22989
+#EXTINF:-1 tvg-id="CosmoteSport5.gr" tvg-name="Cosmote Sport 5 HD GR" tvg-logo="https://picon-13398.kxcdn.com/cosmotesport1gr.jpg" group-title="Live: Greece",Cosmote Sport 5 HD GR
+http://tv.satsolution.tvip.xyz:80/coqnX16GHf336/U62qoV985/22990
+#EXTINF:-1 tvg-id="CosmoteSport6.gr" tvg-name="Cosmote Sport 6 HD GR" tvg-logo="https://picon-13398.kxcdn.com/cosmotesport1gr.jpg" group-title="Live: Greece",Cosmote Sport 6 HD GR
+http://tv.satsolution.tvip.xyz:80/coqnX16GHf336/U62qoV985/22991
+#EXTINF:-1 tvg-id="CosmoteSport7.gr" tvg-name="Cosmote Sport 7 HD GR" tvg-logo="https://picon-13398.kxcdn.com/cosmotesport1gr.jpg" group-title="Live: Greece",Cosmote Sport 7 HD GR
+http://tv.satsolution.tvip.xyz:80/coqnX16GHf336/U62qoV985/22992
+#EXTINF:-1 tvg-id="CosmoteSport8.gr" tvg-name="Cosmote Sport 8 HD GR" tvg-logo="https://picon-13398.kxcdn.com/cosmotesport1gr.jpg" group-title="Live: Greece",Cosmote Sport 8 HD GR
+http://tv.satsolution.tvip.xyz:80/coqnX16GHf336/U62qoV985/22993
+#EXTINF:-1 tvg-id="CosmoteSport9.gr" tvg-name="Cosmote Sport 9 HD GR" tvg-logo="https://picon-13398.kxcdn.com/otesport9gr.jpg" group-title="Live: Greece",Cosmote Sport 9 HD GR
+http://tv.satsolution.tvip.xyz:80/coqnX16GHf336/U62qoV985/99897
+#EXTINF:-1 tvg-id="NovaSports1.gr" tvg-name="Nova Sports 1 HD GR" tvg-logo="https://picon-13398.kxcdn.com/novasports1gr.jpg" group-title="Live: Greece",Nova Sports 1 HD GR
+http://tv.satsolution.tvip.xyz:80/coqnX16GHf336/U62qoV985/26818
+#EXTINF:-1 tvg-id="NovaSports2.gr" tvg-name="Nova Sports 2 HD GR" tvg-logo="https://picon-13398.kxcdn.com/novasports2gr.jpg" group-title="Live: Greece",Nova Sports 2 HD GR
+http://tv.satsolution.tvip.xyz:80/coqnX16GHf336/U62qoV985/26819
+#EXTINF:-1 tvg-id="NovaSports3.gr" tvg-name="Nova Sports 3 HD GR" tvg-logo="https://picon-13398.kxcdn.com/novasports3gr.jpg" group-title="Live: Greece",Nova Sports 3 HD GR
+http://tv.satsolution.tvip.xyz:80/coqnX16GHf336/U62qoV985/64906
+#EXTINF:-1 tvg-id="NovaSports4.gr" tvg-name="Nova Sports 4 HD GR" tvg-logo="https://picon-13398.kxcdn.com/novasports4gr.jpg" group-title="Live: Greece",Nova Sports 4 HD GR
+http://tv.satsolution.tvip.xyz:80/coqnX16GHf336/U62qoV985/64907
+#EXTINF:-1 tvg-id="NovaSports5.gr" tvg-name="Nova Sports 5 HD GR" tvg-logo="https://picon-13398.kxcdn.com/novasports5gr.jpg" group-title="Live: Greece",Nova Sports 5 HD GR
+http://tv.satsolution.tvip.xyz:80/coqnX16GHf336/U62qoV985/64908
+#EXTINF:-1 tvg-id="NovaSports6.gr" tvg-name="Nova Sports 6 HD GR" tvg-logo="https://picon-13398.kxcdn.com/novasports6gr.jpg" group-title="Live: Greece",Nova Sports 6 HD GR
+http://tv.satsolution.tvip.xyz:80/coqnX16GHf336/U62qoV985/64909
+#EXTINF:-1 tvg-id="NovaSportsPrime.gr" tvg-name="Nova Sports Prime HD GR" tvg-logo="https://picon-13398.kxcdn.com/novasportsprimegr.jpg" group-title="Live: Greece",Nova Sports Prime HD GR
+http://tv.satsolution.tvip.xyz:80/coqnX16GHf336/U62qoV985/88330
+#EXTINF:-1 tvg-id="NovaSportsNews.gr" tvg-name="Nova Sports News HD GR" tvg-logo="https://picon-13398.kxcdn.com/novasportsnewsgr.jpg" group-title="Live: Greece",Nova Sports News HD GR
+http://tv.satsolution.tvip.xyz:80/coqnX16GHf336/U62qoV985/88331
+#EXTINF:-1 tvg-id="NovaSportsStart.gr" tvg-name="Nova Sports Start HD GR" tvg-logo="https://picon-13398.kxcdn.com/novasportsstartgr.jpg" group-title="Live: Greece",Nova Sports Start HD GR
+http://tv.satsolution.tvip.xyz:80/coqnX16GHf336/U62qoV985/88332
+#EXTINF:-1 tvg-id="" tvg-name="Nova Sports Premier League HD GR" tvg-logo="https://picon-13398.kxcdn.com/novasportspremierleaguegr.jpg" group-title="Live: Greece",Nova Sports Premier League HD GR
+http://tv.satsolution.tvip.xyz:80/coqnX16GHf336/U62qoV985/108919
+
+#EXTINF:-1 tvg-id="Viasport1.no" tvg-name="V Sport 1 HD NO" tvg-logo="https://picon-13398.kxcdn.com/v-sport-1-se.jpg" group-title="Live: Norway",V Sport 1 HD NO
+http://tv.satsolution.tvip.xyz:80/coqnX16GHf336/U62qoV985/19644
+#EXTINF:-1 tvg-id="Viasport2.no" tvg-name="V Sport 2 HD NO" tvg-logo="https://picon-13398.kxcdn.com/vsport2no.jpg" group-title="Live: Norway",V Sport 2 HD NO
+http://tv.satsolution.tvip.xyz:80/coqnX16GHf336/U62qoV985/19645
+#EXTINF:-1 tvg-id="Viasport3.no" tvg-name="V Sport 3 HD NO" tvg-logo="https://picon-13398.kxcdn.com/vsport3no.jpg" group-title="Live: Norway",V Sport 3 HD NO
+http://tv.satsolution.tvip.xyz:80/coqnX16GHf336/U62qoV985/19646
+#EXTINF:-1 tvg-id="ViasportPlus.no" tvg-name="V Sport + HD NO" tvg-logo="https://picon-13398.kxcdn.com/vsportplusno.jpg" group-title="Live: Norway",V Sport + HD NO
+http://tv.satsolution.tvip.xyz:80/coqnX16GHf336/U62qoV985/19647
+#EXTINF:-1 tvg-id="TV2Sport1.no" tvg-name="TV 2 Sport 1 HD NO" tvg-logo="https://picon-13398.kxcdn.com/tv2sport1no.jpg" group-title="Live: Norway",TV 2 Sport 1 HD NO
+http://tv.satsolution.tvip.xyz:80/coqnX16GHf336/U62qoV985/30076
+#EXTINF:-1 tvg-id="AnimalPlanet.no" tvg-name="TV 2 Sport Premium 2 NO" tvg-logo="https://picon-13398.kxcdn.com/tv2sportpremium2no.jpg" group-title="Live: Norway",TV 2 Sport Premium 2 NO
+http://tv.satsolution.tvip.xyz:80/coqnX16GHf336/U62qoV985/30094
+#EXTINF:-1 tvg-id="TV2SportPremium1.no" tvg-name="TV 2 Sport Premium HD NO" tvg-logo="https://picon-13398.kxcdn.com/tv2sportpremiumno.jpg" group-title="Live: Norway",TV 2 Sport Premium HD NO
+http://tv.satsolution.tvip.xyz:80/coqnX16GHf336/U62qoV985/30093
+
+#EXTINF:-1 tvg-id="DigiSport1.ro" tvg-name="Digi Sport 1 HD RO" tvg-logo="https://picon-13398.kxcdn.com/digisport1.jpg" group-title="Live: Romania",Digi Sport 1 HD RO
+http://tv.satsolution.tvip.xyz:80/coqnX16GHf336/U62qoV985/20428
+#EXTINF:-1 tvg-id="DigiSport1.ro" tvg-name="Digi Sport 1 RO" tvg-logo="https://picon-13398.kxcdn.com/digisport1.jpg" group-title="Live: Romania",Digi Sport 1 RO
+http://tv.satsolution.tvip.xyz:80/coqnX16GHf336/U62qoV985/14623
+#EXTINF:-1 tvg-id="DigiSport2.ro" tvg-name="Digi Sport 2 HD RO" tvg-logo="https://picon-13398.kxcdn.com/digisport2hd.jpg" group-title="Live: Romania",Digi Sport 2 HD RO
+http://tv.satsolution.tvip.xyz:80/coqnX16GHf336/U62qoV985/20427
+#EXTINF:-1 tvg-id="DigiSport2.ro" tvg-name="Digi Sport 2 RO" tvg-logo="https://picon-13398.kxcdn.com/digisport2.jpg" group-title="Live: Romania",Digi Sport 2 RO
+http://tv.satsolution.tvip.xyz:80/coqnX16GHf336/U62qoV985/14622
+#EXTINF:-1 tvg-id="DigiSport3.ro" tvg-name="Digi Sport 3 RO" tvg-logo="https://picon-13398.kxcdn.com/digisport3.jpg" group-title="Live: Romania",Digi Sport 3 RO
+http://tv.satsolution.tvip.xyz:80/coqnX16GHf336/U62qoV985/14621
+#EXTINF:-1 tvg-id="DigiSport4.ro" tvg-name="Digi Sport 4 HD RO" tvg-logo="https://picon-13398.kxcdn.com/digisport4.jpg" group-title="Live: Romania",Digi Sport 4 HD RO
+http://tv.satsolution.tvip.xyz:80/coqnX16GHf336/U62qoV985/14620
+#EXTINF:-1 tvg-id="AMC.ro" tvg-name="Orange Sport 1 HD RO" tvg-logo="https://picon-13398.kxcdn.com/orangesportro.jpg" group-title="Live: Romania",Orange Sport 1 HD RO
+http://tv.satsolution.tvip.xyz:80/coqnX16GHf336/U62qoV985/16546
+#EXTINF:-1 tvg-id="AMC.ro" tvg-name="Orange Sport 2 RO" tvg-logo="https://picon-13398.kxcdn.com/orangesportro.jpg" group-title="Live: Romania",Orange Sport 2 RO
+http://tv.satsolution.tvip.xyz:80/coqnX16GHf336/U62qoV985/24226
+#EXTINF:-1 tvg-id="AMC.ro" tvg-name="Orange Sport 3 RO" tvg-logo="https://picon-13398.kxcdn.com/orangesportro.jpg" group-title="Live: Romania",Orange Sport 3 RO
+http://tv.satsolution.tvip.xyz:80/coqnX16GHf336/U62qoV985/24227
+#EXTINF:-1 tvg-id="AMC.ro" tvg-name="Orange Sport 4 RO" tvg-logo="https://picon-13398.kxcdn.com/orangesportro.jpg" group-title="Live: Romania",Orange Sport 4 RO
+http://tv.satsolution.tvip.xyz:80/coqnX16GHf336/U62qoV985/24228
+#EXTINF:-1 tvg-id="PrimaSport4.ro" tvg-name="Prima Sport 4 HD RO" tvg-logo="https://picon-13398.kxcdn.com/primasport4ro.jpg" group-title="Live: Romania",Prima Sport 4 HD RO
+http://tv.satsolution.tvip.xyz:80/coqnX16GHf336/U62qoV985/27539
+
+#EXTINF:-1 tvg-id="MatchFutbol1.ru" tvg-name="Match! Futbol 1 FHD RU" tvg-logo="https://picon-13398.kxcdn.com/matchfutbol1ru.jpg" group-title="Live: Russia",Match! Futbol 1 FHD RU
+http://tv.satsolution.tvip.xyz:80/coqnX16GHf336/U62qoV985/15247
+#EXTINF:-1 tvg-id="MatchFutbol2.ru" tvg-name="Match! Futbol 2 FHD RU" tvg-logo="https://picon-13398.kxcdn.com/matchfutbol2ru.jpg" group-title="Live: Russia",Match! Futbol 2 FHD RU
+http://tv.satsolution.tvip.xyz:80/coqnX16GHf336/U62qoV985/15246
+#EXTINF:-1 tvg-id="MatchFutbol3.ru" tvg-name="Match! Futbol 3 FHD RU" tvg-logo="https://picon-13398.kxcdn.com/matchfutbol3ru.jpg" group-title="Live: Russia",Match! Futbol 3 FHD RU
+http://tv.satsolution.tvip.xyz:80/coqnX16GHf336/U62qoV985/15245
