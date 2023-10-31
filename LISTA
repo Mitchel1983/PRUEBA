@@ -214,7 +214,7 @@ http://tv.satsolution.tvip.xyz:80/coqnX16GHf336/U62qoV985/17744
 http://tv.satsolution.tvip.xyz:80/coqnX16GHf336/U62qoV985/3222
 #EXTINF:-1 group-title="Extranjeros" tvg-id="Sport TV3 POR HD" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a452.png" ,Sport TV3
 http://tv.satsolution.tvip.xyz:80/coqnX16GHf336/U62qoV985/3223
-##EXTINF:-1 group-title="Extranjeros" tvg-id="Sport TV4 POR HD" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a453.png" ,Sport TV4
+#EXTINF:-1 group-title="Extranjeros" tvg-id="Sport TV4 POR HD" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a453.png" ,Sport TV4
 http://tv.satsolution.tvip.xyz:80/coqnX16GHf336/U62qoV985/3224
 #EXTINF:-1 group-title="Extranjeros" tvg-id="Sport TV5 POR HD" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a454.png" ,Sport TV5
 http://tv.satsolution.tvip.xyz:80/coqnX16GHf336/U62qoV985/7842
