@@ -228,56 +228,56 @@ http://14.177.53.107:8889/ultratv.php?id=3816
 http://14.177.53.107:8889/ultratv.php?id=236931
 
 #EXTINF:-1 group-title="Portugal" tvg-id="Eleven Sports 1 POR" tvg-logo="https://img.sport-tv-guide.live/images/stations/a1500.png" ,Eleven Sports 1 PT
-http://14.177.53.107:8889/ultratv.php?id=94661
+http://123.24.18.227:8889/ultratv.php?id=94661
 #EXTINF:-1 group-title="Portugal" tvg-id="Eleven Sports 2 POR" tvg-logo="https://img.sport-tv-guide.live/images/stations/a1501.png" ,Eleven Sports 2 PT
-http://14.177.53.107:8889/ultratv.php?id=94660
+http://123.24.18.227:8889/ultratv.php?id=94660
 #EXTINF:-1 group-title="Portugal" tvg-id="Eleven Sports 3 POR" tvg-logo="https://img.sport-tv-guide.live/images/stations/a1502.png" ,Eleven Sports 3 PT
-http://14.177.53.107:8889/ultratv.php?id=94659
+http://123.24.18.227:8889/ultratv.php?id=94659
 #EXTINF:-1 group-title="Portugal" tvg-id="Eleven Sports 4 POR" tvg-logo="https://img.sport-tv-guide.live/images/stations/a1557.png" ,Eleven Sports 4 PT
-http://14.177.53.107:8889/ultratv.php?id=94658
+http://123.24.18.227:8889/ultratv.php?id=94658
 #EXTINF:-1 group-title="Portugal" tvg-id="Eleven Sports 5 POR" tvg-logo="https://img.sport-tv-guide.live/images/stations/a1558.png" ,Eleven Sports 5 PT
-http://14.177.53.107:8889/ultratv.php?id=94657
+http://123.24.18.227:8889/ultratv.php?id=94657
 #EXTINF:-1 group-title="Portugal" tvg-id="Eleven Sports 6 POR" tvg-logo="https://img.sport-tv-guide.live/images/stations/a1559.png" ,Eleven Sports 6 PT
-http://14.177.53.107:8889/ultratv.php?id=94656
+http://123.24.18.227:8889/ultratv.php?id=94656
 
 #EXTINF:-1 tvg-id="SportTVplus.pt" tvg-name="PT: Sport TV+" tvg-logo="http://kb007.xyz/picons/sporttvplus.png" group-title="VIP | Sports Portugal",PT: Sport TV+
-http://14.177.53.107:8889/ultratv.php?id=9343
+http://123.24.18.227:8889/ultratv.php?id=9343
 #EXTINF:-1 tvg-id="sporttv1.pt" tvg-name="PT: Sport TV 1 FHD" tvg-logo="http://kb007.xyz/picons/sporttv1.png" group-title="VIP | Sports Portugal",PT: Sport TV 1 FHD
-http://14.177.53.107:8889/ultratv.php?id=7797
+http://123.24.18.227:8889/ultratv.php?id=7797
 #EXTINF:-1 tvg-id="sporttv2.pt" tvg-name="PT: Sport TV 2 FHD" tvg-logo="http://kb007.xyz/picons/sporttv2.png" group-title="VIP | Sports Portugal",PT: Sport TV 2 FHD
-http://14.177.53.107:8889/ultratv.php?id=7798
+http://123.24.18.227:8889/ultratv.php?id=7798
 #EXTINF:-1 tvg-id="sporttv3.pt" tvg-name="PT: Sport TV 3 FHD" tvg-logo="http://kb007.xyz/picons/sporttv3.png" group-title="VIP | Sports Portugal",PT: Sport TV 3 FHD
-http://14.177.53.107:8889/ultratv.php?id=7799
+http://123.24.18.227:8889/ultratv.php?id=7799
 #EXTINF:-1 tvg-id="sporttv4.pt" tvg-name="PT: Sport TV 4 FHD" tvg-logo="http://kb007.xyz/picons/sporttv4.png" group-title="VIP | Sports Portugal",PT: Sport TV 4 FHD
-http://14.177.53.107:8889/ultratv.php?id=7800
+http://123.24.18.227:8889/ultratv.php?id=7800
 #EXTINF:-1 tvg-id="sporttv5.pt" tvg-name="PT: Sport TV 5 FHD" tvg-logo="http://kb007.xyz/picons/sporttv5.png" group-title="VIP | Sports Portugal",PT: Sport TV 5 FHD
-http://14.177.53.107:8889/ultratv.php?id=7801
+http://123.24.18.227:8889/ultratv.php?id=7801
 #EXTINF:-1 tvg-id="SportTV6.pt" tvg-name="PT: Sport TV 6 FHD" tvg-logo="http://kb007.xyz/picons/sporttv6hd.png" group-title="VIP | Sports Portugal",PT: Sport TV 6 FHD
-http://14.177.53.107:8889/ultratv.php?id=297383
+http://123.24.18.227:8889/ultratv.php?id=297383
 #EXTINF:-1 tvg-id="" tvg-name="PT: Sport TV NBA FHD" tvg-logo="http://kb007.xyz/picons/sporttvnba.png" group-title="VIP | Sports Portugal",PT: Sport TV NBA FHD
-http://14.177.53.107:8889/ultratv.php?id=164982
+http://123.24.18.227:8889/ultratv.php?id=164982
 
 #EXTINF:-1 tvg-id="TV2SportPremium.no" tvg-name="NO: TV2 Sport Premium FHD" tvg-logo="" group-title="VIP | Sports Nordic",NO: TV2 Sport Premium FHD
-http://14.177.53.107:8889/ultratv.php?id=130745
+http://123.24.18.227:8889/ultratv.php?id=130745
 #EXTINF:-1 tvg-id="tv2sportpremium2.no" tvg-name="NO: TV2 Sport Premium 2 FHD" tvg-logo="" group-title="VIP | Sports Nordic",NO: TV2 Sport Premium 2 FHD
-http://14.177.53.107:8889/ultratv.php?id=130746
+http://123.24.18.227:8889/ultratv.php?id=130746
 #EXTINF:-1 tvg-id="viasatsportpremium.se" tvg-name="SE:* Viasat Sport Premium FHD" tvg-logo="" group-title="VIP | Sports Nordic",SE:* Viasat Sport Premium FHD
-http://14.177.53.107:8889/ultratv.php?id=9653
+http://123.24.18.227:8889/ultratv.php?id=9653
 #EXTINF:-1 tvg-id="TV2Sport.dk" tvg-name="[DK] TV2 Sport FHD" tvg-logo="" group-title="VIP | Sports Nordic",[DK] TV2 Sport FHD
-http://14.177.53.107:8889/ultratv.php?id=166495
+http://123.24.18.227:8889/ultratv.php?id=166495
 #EXTINF:-1 tvg-id="TV3Sport1.dk" tvg-name="[DK] TV3 Sport FHD" tvg-logo="" group-title="VIP | Sports Nordic",[DK] TV3 Sport FHD
-http://14.177.53.107:8889/ultratv.php?id=17072
+http://123.24.18.227:8889/ultratv.php?id=17072
 
-#EXTINF:-1 tvg-id="beinsports1.fr" tvg-name="|FR| BEIN SPORTS 1 FHD" tvg-logo="http://pic.roll-tv.com/PICONS-SHOTT/PICONS-BOUQET-BEIN-SPORT/bsfr.png" group-title="FRANCE FHD  | OTT",|FR| BEIN SPORTS 1 FHD
-http://14.177.53.107:8889/pluseu.php?id=26323
-#EXTINF:-1 tvg-id="beinsports2.fr" tvg-name="|FR| BEIN SPORTS 2 FHD" tvg-logo="http://pic.roll-tv.com/PICONS-SHOTT/PICONS-BOUQET-BEIN-SPORT/bsfr.png" group-title="FRANCE FHD  | OTT",|FR| BEIN SPORTS 2 FHD
-http://14.177.53.107:8889/pluseu.php?id=26322
-#EXTINF:-1 tvg-id="beinsports3.fr" tvg-name="|FR| BEIN SPORTS 3 FHD" tvg-logo="http://pic.roll-tv.com/PICONS-SHOTT/PICONS-BOUQET-BEIN-SPORT/bsfr.png" group-title="FRANCE FHD  | OTT",|FR| BEIN SPORTS 3 FHD
-http://14.177.53.107:8889/pluseu.php?id=26321
+#EXTINF:-1 tvg-id="beinsports1.fr" tvg-name="FR:* Bein Sports 1 FHD" tvg-logo="http://kb007.xyz/picons/beinsports1.png" group-title="VIP1 | Sports French",FR:* Bein Sports 1 FHD
+http://123.24.18.227:8889/ultrahd.php?id=10245
+#EXTINF:-1 tvg-id="beinsports2.fr" tvg-name="FR:* Bein Sports 2 FHD" tvg-logo="http://kb007.xyz/picons/beinsports2.png" group-title="VIP1 | Sports French",FR:* Bein Sports 2 FHD
+http://123.24.18.227:8889/ultrahd.php?id=10246
+#EXTINF:-1 tvg-id="beinsports3.fr" tvg-name="FR:* Bein Sports 3 FHD" tvg-logo="http://kb007.xyz/picons/beinsports3.png" group-title="VIP1 | Sports French",FR:* Bein Sports 3 FHD
+http://123.24.18.227:8889/ultrahd.php?id=2590
 
 #EXTINF:-1 tvg-id="" tvg-name="RUS| Match! Futbol 1 HD" tvg-logo="" group-title="RUSSIA | OTT",RUS| Match! Futbol 1 HD
-http://14.177.53.107:8889/pluseu.php?id=300321
+http://123.24.18.227:8889/pluseu.php?id=300321
 #EXTINF:-1 tvg-id="" tvg-name="RUS| Match Football 2 FHD" tvg-logo="" group-title="RUSSIA | OTT",RUS| Match Football 2 FHD
-http://14.177.53.107:8889/pluseu.php?id=300315
+http://123.24.18.227:8889/pluseu.php?id=300315
 #EXTINF:-1 tvg-id="" tvg-name="RUS| Match Football 3 FHD" tvg-logo="" group-title="RUSSIA | OTT",RUS| Match Football 3 FHD
-http://14.177.53.107:8889/pluseu.php?id=300316
+http://123.24.18.227:8889/pluseu.php?id=300316
