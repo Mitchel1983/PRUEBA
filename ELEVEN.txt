@@ -47,6 +47,12 @@ acestream://48bee10b883f17c7186d60f1e8022dca0ba41a05
 acestream://ed81c333815247536edfcdb2755147e8c4144d62
 #EXTINF:-1 group-title="beIN" tvg-id="beIN SPORTS HD 4 [TR]" tvg-logo="" , beIN SPORTS HD 4
 acestream://7683cd0cbacf55fa8b39c363219ffba1bc47cf9d
+#EXTINF:-1 group-title="beIN" tvg-id="BeIN Sports 1 [BE]" tvg-logo="" , BeIN Sports 1 [BE]
+acestream://bba1905fcd1c4975aec544047bf8e4cd23ce3fe0
+#EXTINF:-1 group-title="beIN" tvg-id="BeIN Sports 2 [BE]" tvg-logo="" , BeIN Sports 2 [BE]
+acestream://edb507e38394d614c9ff55805c9d354ae13210bc
+#EXTINF:-1 group-title="beIN" tvg-id="BeIN Sports 3 [BE]" tvg-logo="" , BeIN Sports 3 [BE]
+acestream://731bd3336ec0986ff9100efe40dbaf1473a22cf8
 
 #EXTINF:-1 group-title="ALL Sports" tvg-id="ALL Sports" tvg-logo="" ,ALL Sports
 acestream://7101b21c3c95847ddcd5ab47b775fbbc2c4e200f
