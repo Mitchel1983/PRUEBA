@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiatv.xml, https://raw.githubusercontent.com/acidjesuz/EPGTalk/master/guide.xml, https://raw.githubusercontent.com/eldepor/epg/main/bt.com.xml, https://raw.githubusercontent.com/eldepor/epg/main/ziggogo.tv.xml, https://raw.githubusercontent.com/eldepor/epg/main/sky.de.xml, https://raw.githubusercontent.com/eldepor/epg/main/flixed.io.xml, https://www.bevy.be/bevyfiles/unitedkingdompremium1.xml"
+#EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiatv.xml, https://raw.githubusercontent.com/acidjesuz/EPGTalk/master/guide.xml, https://raw.githubusercontent.com/eldepor/epg/main/ziggogo.tv.xml, https://raw.githubusercontent.com/eldepor/epg/main/sky.de.xml, https://raw.githubusercontent.com/eldepor/epg/main/flixed.io.xml, https://raw.githubusercontent.com/eldepor/epg/main/bt.com.xml, https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiatv.xml, https://raw.githubusercontent.com/acidjesuz/EPGTalk/master/guide.xml, https://raw.githubusercontent.com/eldepor/epg/main/bt.com.xml, https://raw.githubusercontent.com/eldepor/epg/main/ziggogo.tv.xml, https://raw.githubusercontent.com/eldepor/epg/main/sky.de.xml, https://raw.githubusercontent.com/eldepor/epg/main/flixed.io.xml, https://www.bevy.be/bevyfiles/unitedkingdompremium1.xml"
 
 #EXTINF:-1 group-title="Portugal" tvg-id="Eleven Sports 1 POR" tvg-logo="https://img.sport-tv-guide.live/images/stations/a1500.png" ,Eleven Sports 1 PT
 acestream://36cad67fed5a739757a9db844a551aa845a8d51b
@@ -54,30 +54,35 @@ acestream://edb507e38394d614c9ff55805c9d354ae13210bc
 #EXTINF:-1 group-title="beIN" tvg-id="BeIN Sports 3 [BE]" tvg-logo="" , BeIN Sports 3 [BE]
 acestream://731bd3336ec0986ff9100efe40dbaf1473a22cf8
 
-#EXTINF:-1 group-title="ALL Sports" tvg-id="ALL Sports" tvg-logo="" ,ALL Sports
-acestream://7101b21c3c95847ddcd5ab47b775fbbc2c4e200f
-#EXTINF:-1 group-title="ALL Sports" tvg-id="BBC ONE"  tvg-logo="" ,BBC ONE
-acestream://243eaccd38b9a0c43b800b6c7a30b1ad2cadc1f1 
-#EXTINF:-1 group-title="ALL Sports" tvg-id="UK"  tvg-logo="" ,UK
-acestream://d6cdd724a97fcf851e7ef641c28d6beb8663496e
-#EXTINF:-1 group-title="ALL Sports" tvg-id="Sky Sports Main Event"  tvg-logo="" ,Sky Sports Main Event
+#EXTINF:-1 group-title="British" tvg-id="SkySportsMainEvent.uk" tvg-logo="https://i.ibb.co/8r7M1Fy/mainevent.png", Sky Sports Main Event UK  eab7
 acestream://eab7aeef0218ce8b0752e596e4792b69eda4df5e
-#EXTINF:-1 group-title="ALL Sports" tvg-id="SkySP PL [UK]"  tvg-logo="" ,SkySP PL [UK]
+#EXTINF:-1 group-title="British" tvg-id="SkySportsPremierLeague.uk" tvg-logo="https://i.ibb.co/w4sF0dt/premier.png", Sky Sports Premier League UK  ec5e
 acestream://ec5eabe0144ccfffc337e1d6708e2afb81d0638e
-#EXTINF:-1 group-title="ALL Sports" tvg-id="Sky Sports Football [UK]" tvg-logo="" ,SkySP PL [UK]
+#EXTINF:-1 group-title="British" tvg-id="SkySportsFootball.uk" tvg-logo="https://i.ibb.co/whnhzMk/skyfootball.png", Sky Sports Football UK  8dbe
 acestream://8dbe2d515e9131fa311353537736f8c94be9b26d
-#EXTINF:-1 group-title="ALL Sports" tvg-id="Sky Sports Arena [UK]" tvg-logo="" ,SkySP PL [UK]
+#EXTINF:-1 group-title="British" tvg-id="SkySportsArena.uk" tvg-logo="https://i.ibb.co/fx1tbCQ/Skyarena.png", Sky Sports Arena UK  d317
 acestream://d317a003e8047da2c36a2a2bb2289578c9a3b79c
-#EXTINF:-1 group-title="ALL Sports" tvg-id="Sky Sports Cricket [UK]" tvg-logo="" ,SkySP PL [UK]
-acestream://6d95e4b0893e155cc674b84e0763150c445d3ddd
-#EXTINF:-1 group-title="ALL Sports" tvg-id="BT Sport 1 [UK]" tvg-logo="" ,BT Sport 1 [UK]
+#EXTINF:-1 group-title="British" tvg-id="SkySportF1Germany.de" tvg-logo="https://i.ibb.co/KrxsSFT/f1.png", Sky Sports F1 DE  b043
+acestream://b04372b9543d763bd2dbd2a1842d9723fd080076
+#EXTINF:-1 group-title="British" tvg-id="TNTSports1.uk" tvg-logo="https://i.ibb.co/ZN1bxkV/TNT1.png", TNT Sports 1 UK  efc6
 acestream://efc60cfe5e3a349baa02bcc49f6647c21a9c3c5b
-#EXTINF:-1 group-title="ALL Sports" tvg-id="BT Sport 2 [UK]" tvg-logo="" ,BT Sport 2 [UK]
+#EXTINF:-1 group-title="British" tvg-id="TNTSports2.uk" tvg-logo="https://i.ibb.co/wQ5ChWr/TNT2.png", TNT Sports 2 UK  d63d
 acestream://d63d8a57cf471394bfa9f619bbd68b01ae27a801
-#EXTINF:-1 group-title="ALL Sports" tvg-id="BT Sport 3 [UK]" tvg-logo="" ,BT Sport 3 [UK]
+#EXTINF:-1 group-title="British" tvg-id="TNTSports3.uk" tvg-logo="https://i.ibb.co/M9VGB7X/TNT3.png", TNT Sports 3 UK  5f96
 acestream://5f966c123759de46dff29c379266b7a403452033
-#EXTINF:-1 group-title="ALL Sports" tvg-id="BT Sport esn[UK]" tvg-logo="" ,BT Sport ESPN [UK]
+#EXTINF:-1 group-title="British" tvg-id="TNTSports4.uk" tvg-logo="https://i.ibb.co/xjXMsJw/TNT4.png", TNT Sports 4 UK  fc50
 acestream://fc5089d8e1519872fdf951779ccbca913acc9bce
-#EXTINF:-1 group-title="ALL Sports" tvg-id="F1TVPro" tvg-logo="" ,F1TVPro
-acestream://6f3b2c65308024a24c4c0fa43837adc31ffb354d
+#EXTINF:-1 group-title="Otros deportes" tvg-id="NBATV.us" tvg-logo="https://i.imgur.com/4QrPlos.png", NBA TV  e72d
+acestream://e72d03fb9694164317260f684470be9ab781ed95
+#EXTINF:-1 group-title="Otros deportes" tvg-id="ESPN.us" tvg-logo="https://i.ibb.co/ssj7ZBV/espn.png", ESPN US  4b49
+acestream://4b4907de51ec11087d4bed5876f2a0c68264f442
+#EXTINF:-1 group-title="Otros deportes" tvg-id="ESPN2.us" tvg-logo="https://i.ibb.co/pdpg7bR/espn2.png", ESPN 2 US  664e
+acestream://664eb5fe460b96941aed633959a845b185cd8394
+#EXTINF:-1 group-title="Otros deportes" tvg-id="FoxSports1.us" tvg-logo="https://i.ibb.co/fvG2stM/foxsports.png", FOX Sports 1 US  c9c0
+acestream://c9c062941fbecb16ce29437f346ea7177d720898
+#EXTINF:-1 group-title="Otros deportes" tvg-id="FoxSports2.us" tvg-logo="https://i.ibb.co/0cnVCwv/foxsports2.png", FOX Sports 2 US  cba8
+acestream://cba8d369eac629b577750edb90370cd1c5fb03b7
+acestream://11c89343be863cf2a69b3973747c629d9e79d7b8
+
+
 
