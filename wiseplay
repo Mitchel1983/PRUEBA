@@ -1,0 +1,126 @@
+{{
+  "name":"Mega Lista Whatplay ",
+  "author":"Supremme Listas - 15/07/2023",
+  "image":"https://i.imgur.com/TL1OqHZ.png",
+  "url":"https://raw.githubusercontent.com/Jeans85/lists/main/megalista.w3u",
+  "telegram":"listaswhatplay",
+  "info":"Listaswhatplay",
+  "groups":[
+    {
+	  "name":"Importar Listas",
+	  "image":"https://i.imgur.com/TL1OqHZ.png",
+	  "stations":[
+	        {
+	          "name":"Megalista TV | Añadir Lista",
+		  "image":"https://i.imgur.com/TL1OqHZ.png",
+		  "url":"https://raw.githubusercontent.com/Jeans85/lists/main/megalista_tv.w3u",
+		  "import":true
+		},
+		{
+		  "name":"Megalista VOD | Añadir Lista",
+		  "image":"https://i.imgur.com/TL1OqHZ.png",
+		  "url":"https://raw.githubusercontent.com/Jeans85/lists/main/megalista_vod.w3u",
+		  "import":true
+		},
+	  	{
+	  	  "name": "CHUKYHOOD | Añadir Lista",
+	    	  "image": "https://i.imgur.com/TL1OqHZ.png",
+      		  "url": "https://raw.githubusercontent.com/chukyvaliente/Chuky-Hood/main/Chuky-Hood",
+	    	  "import": true
+	   	},
+		{
+		  "name":"Mega Sport TV (VPN) | Añadir Lista",
+		  "image":"https://i.imgur.com/TL1OqHZ.png",
+		  "url":"https://raw.githubusercontent.com/Jeans85/lists/main/megalista_sport.w3u",
+		  "import":true
+		},
+		{
+		  "name":"Whatplay-Sport By ELSUPREMO | Añadir Lista",
+		  "image":"https://i.imgur.com/TL1OqHZ.png",
+		  "url": "https://bit.ly/WiseSportMenu",
+		  "import":true
+		},
+		{
+		  "name":"Tiristar TV Juvenil | Añadir Lista ",
+		  "image":"https://i.imgur.com/TL1OqHZ.png",
+		  "url":"https://raw.githubusercontent.com/tirimosqui/iconnos/main/TIRI_STARV3.w3u",
+		  "import":true
+		},
+	  	{
+	    	  "name": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂 BY YIᔕᑌᔕ MΣX | Añadir Lista",
+	    	  "image": "https://i.imgur.com/TL1OqHZ.png",
+      	 	  "url": "https://af-1-cionados.vercel.app/af1cionados.w3u",
+      		  "import": true
+	  	},
+	    	{
+	      	  "name": "El Cano [Acestream] | Añadir Lista",
+	          "image": "https://i.imgur.com/TL1OqHZ.png",
+	      	  "url": "https://9xtpkqyjexwfcowclmr65sdvz.vercel.app/base.txt",
+	      	  "import": true
+	        },
+	        {
+	      	  "name": "El Cano [HTTP] | Añadir Lista",
+	      	  "image": "https://i.imgur.com/TL1OqHZ.png",
+	       	  "url": "https://9xtpkqyjexwfcowclmr65sdvz.vercel.app/get.txt",
+	     	  "import": true
+	   	},
+		{
+		  "name":"TIRI MARRANO SOLO ADULTOS +18 | Añadir Lista ",
+		  "image":"https://i.imgur.com/TL1OqHZ.png",
+		  "url":"https://raw.githubusercontent.com/tirimosqui/iconnos/main/STAR%20MARRANO%20PARA%20ADULTOS.m3u",
+		  "import":true
+		}
+	  ]
+	},
+	{
+	  "name":"Megalista TV",
+	  "image":"https://i.imgur.com/93I4EWD.png",
+	  "url":"https://raw.githubusercontent.com/Jeans85/lists/main/megalista_tv.w3u"
+	},
+	{
+	  "name":"Megalista VOD",
+	  "image":"https://i.imgur.com/OcfEDch.png",
+	  "url":"https://raw.githubusercontent.com/Jeans85/lists/main/megalista_vod.w3u"
+	},
+	{
+	  "name": "CHUKYHOOD",
+	  "image": "https://i.imgur.com/AyAdJAl.png",
+    	  "url": "https://raw.githubusercontent.com/chukyvaliente/Chuky-Hood/main/Chuky-Hood"
+	},
+	{
+	  "name":"Mega Sport TV (VPN)",
+	  "image":"https://i.imgur.com/NW9AUMM.png",
+	  "url":"https://raw.githubusercontent.com/Jeans85/lists/main/megalista_sport.w3u"
+	},
+	{
+	  "name":"Whatplay-Sport By ELSUPREMO",
+	  "image":"https://i.imgur.com/Z702SwO.jpg",
+	  "url":"https://bit.ly/WiseSportMenu"
+	},
+	{
+	  "name":"Tiristar TV Juvenil",
+	  "image":"https://raw.githubusercontent.com/tirimosqui/iconnos/main/tiriTv2.gif",
+    	  "url": "https://raw.githubusercontent.com/tirimosqui/iconnos/main/TIRI_STARV3.w3u"
+	},
+	{
+	  "name": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂 BY YIᔕᑌᔕ MΣX",
+	  "image": "https://giffiles.alphacoders.com/211/211426.gif",
+	  "url": "https://af-1-cionados.vercel.app/af1cionados.w3u"
+	},
+  	{
+    	  "name": "El Cano [Acestream]",
+    	  "image": "https://i.imgur.com/Eg5iqZC.png",
+    	  "url": "https://raw.githubusercontent.com/Mitchel1983/PRUEBA/refs/heads/main/Deportes%20ACE.txt"
+  	},
+  	{
+    	  "name": "El Cano [HTTP]",
+    	  "image": "https://i.imgur.com/Eg5iqZC.png",
+    	  "url": "https://raw.githubusercontent.com/Mitchel1983/PRUEBA/refs/heads/main/Deportes%20http.txt"
+  	},
+	{
+	  "name":"TIRI MARRANO SOLO ADULTOS +18 M3U",
+	  "image":"https://imgs.search.brave.com/Wsz4VKYoTBlSH5hfQz73p_l_4hGxZiF7YY5spwhzpFE/rs:fit:256:256:1/g:ce/aHR0cHM6Ly9wbmdp/Y29uLnJ1L2ZpbGUv/dXBsb2Fkcy8xOHBs/dXMtMjU2eDI1Ni5w/bmc",
+	  "url":"https://raw.githubusercontent.com/tirimosqui/iconnos/main/STAR%20MARRANO%20PARA%20ADULTOS.m3u"
+	}
+  ]
+}
