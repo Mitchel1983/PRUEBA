@@ -5,7 +5,7 @@ https://mitchel83-dproxy.hf.space/watch/acestream://36cad67fed5a739757a9db844a55
 #EXTINF:-1 group-title="Portugal" tvg-id="Eleven Sports 2 POR" tvg-logo="https://img.sport-tv-guide.live/images/stations/a1501.png" ,Eleven Sports 2 PT
 https://mitchel83-dproxy.hf.space/watch/acestream://d08013df6e437a1fdf1e0c34f573fdf6a40c7fce
 #EXTINF:-1 group-title="Portugal" tvg-id="Eleven Sports 3 POR" tvg-logo="https://img.sport-tv-guide.live/images/stations/a1502.png" ,Eleven Sports 3 PT
-https://mitchel83-dproxy.hf.space/watch/acestream://acestream://dae7d1251f069516cc0a9c8f15f6639d2a17df1e
+https://mitchel83-dproxy.hf.space/watch/acestream://dae7d1251f069516cc0a9c8f15f6639d2a17df1e
 #EXTINF:-1 group-title="Portugal" tvg-id="Eleven Sports 4 POR" tvg-logo="https://img.sport-tv-guide.live/images/stations/a1557.png" ,Eleven Sports 4 PT
 https://mitchel83-dproxy.hf.space/watch/acestream://0f32c0131a2d9444996410801f4e18b04384db98
 #EXTINF:-1 group-title="Portugal" tvg-id="Eleven Sports 5 POR" tvg-logo="https://img.sport-tv-guide.live/images/stations/a1558.png" ,Eleven Sports 5 PT
