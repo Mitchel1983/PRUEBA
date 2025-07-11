@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://tinyurl.com/merged2423-epg, https://raw.githubusercontent.com/davidmuma/EPG_dobleM/refs/heads/master/guiatv.xml, https://epgshare01.online/epgshare01/epg_ripper_NL1.xml.gz"
+#EXTM3U url-tvg="https://tinyurl.com/DrewLive002-epg, https://raw.githubusercontent.com/davidmuma/EPG_dobleM/refs/heads/master/guiatv.xml, https://epgshare01.online/epgshare01/epg_ripper_NL1.xml.gz"
 
 #EXTGRP:A1xmedia AU Sports
 #EXTINF:-1  tvg-name="Fox Sports 501 FHD" tvg-id="FoxCricket.au" tvg-logo="https://i.imgur.com/59gCbVd.png" group-title="A1xmedia AU Sports" radio="false",Fox Sports 501 FHD
